@@ -3,6 +3,32 @@ D Artwork
 
 This repository is a collection of D artwork, themes and branding.
 
+Logo with background
+---------------------
+
+<p align="center">
+  <a href="./logo_background"><img width="400px" src="./logo_background/logo_1024.png" /></a>
+</p>
+
+Logo transparent
+----------------
+
+<p align="center">
+  <a href="./logo_transparent"><img width="400px" src="./logo_transparent/logo_1024.png" /></a>
+</p>
+
+Favicon
+-------
+
+Read the [favicon README](https://github.com/dlang-community/artwork/tree/master/favicon).
+
+DLang Banner
+------------
+
+<p align="center">
+  <a href="./dconf"><img width="400px" src="./dconf/dconf_logo.png" /></a>
+</p>
+
 License
 --------
 
