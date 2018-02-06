@@ -35,7 +35,7 @@ Banner
 ------
 
 <p align="center">
-  <a href="./banner"><img width="400px" src="./banner/banner.png" /></a>
+  <a href="./banner"><img width="400px" src="./banner/banner_thin.png" /></a>
 </p>
 
 License
