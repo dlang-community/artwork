@@ -22,12 +22,14 @@ Favicon
 
 Read the [favicon README](https://github.com/dlang-community/artwork/tree/master/favicon).
 
-DLang Banner
+DConf Poster
 ------------
 
 <p align="center">
-  <a href="./dconf"><img width="400px" src="./dconf/dconf_logo.png" /></a>
+  <a href="./dconf"><img width="400px" src="./dconf/dconf_poster.png" /></a>
 </p>
+
+The used font is _Montserrat_.
 
 License
 --------
