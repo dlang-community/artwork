@@ -31,6 +31,13 @@ DConf Poster
 
 The used font is _Montserrat_.
 
+Banner
+------
+
+<p align="center">
+  <a href="./banner"><img width="400px" src="./banner/banner.png" /></a>
+</p>
+
 License
 --------
 
