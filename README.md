@@ -22,11 +22,20 @@ Favicon
 
 Read the [favicon README](https://github.com/dlang-community/artwork/tree/master/favicon).
 
-DConf Poster
+DConf16 Poster
 ------------
 
 <p align="center">
   <a href="./dconf"><img width="400px" src="./dconf/dconf_poster.png" /></a>
+</p>
+
+The used font is _Montserrat_.
+
+DConf17 Poster
+------------
+
+<p align="center">
+  <a href="./dconf"><img width="400px" src="./dconf/dconf17_poster.png" /></a>
 </p>
 
 The used font is _Montserrat_.
